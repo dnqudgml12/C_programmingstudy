@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "windows.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "입력값이중배열": "c",
+        "string.h": "c",
+        "구조체포인터.C": "cpp"
+    }
+}
